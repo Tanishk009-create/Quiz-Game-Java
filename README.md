@@ -48,13 +48,13 @@ game/
 <br>
 │ ├── Space.jpg
 <br>
-| ├── Temple.jpg
+│ ├── Temple.jpg
 <br>
 ├── story/
 <br>
-| ├── EpilogueDisplay.java
+│ ├── EpilogueDisplay.java
 <br>
-| ├── PrologueDisplay.java
+│ ├── PrologueDisplay.java
 <br>
 
 # How to Run
