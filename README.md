@@ -17,26 +17,45 @@ Each level presents questions in an interactive format and rewards correct answe
 
 # File Structure
 game/
+<br>
 ├── GameManager.java # Controls game logic and flow
+<br>
 ├── GameStage.java # Handles the game interface per stage
+<br>
 ├── levels/
+<br>
 │ ├── BaseLevel.java # Abstract class for common level behavior
+<br>
 │ ├── Level1.java - Level7.java
+<br>
 ├── photos/(Used as level backgrounds)
+<br>
 │ ├── Burn.jpg 
+<br>
 │ ├── Castle.jpg
+<br>
 │ ├── Cave.jpg
+<br>
 │ ├── Chamber.jpg
+<br>
 │ ├── Corridor.jpg
+<br>
 │ ├── Dungeon.jpg
+<br>
 │ ├── Library.jpg
+<br>
 │ ├── Mirror Hall.jpg
+<br>
 │ ├── Space.jpg
+<br>
 | ├── Temple.jpg
+<br>
 ├── story/
+<br>
 | ├── EpilogueDisplay.java
+<br>
 | ├── PrologueDisplay.java
-
+<br>
 
 # How to Run
 1. Clone or Download the Repository
