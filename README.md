@@ -58,10 +58,11 @@ game/
 <br>
 
 # How to Run
-1. Clone or Download the Repository
-2. Compile the Java Files
+1. Download the game.zip File
+2. Extract it
+3. Compile the Java Files
 Make sure you have Java installed (JDK 8+)
-3. Run the Game (GameManager.java)
+4. Run the Game (GameManager.java)
 Change the photos location in all the levels as well as prologue and epilogue according to their downloaded locations on your pc.
    
 
